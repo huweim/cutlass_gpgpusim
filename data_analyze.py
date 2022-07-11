@@ -19,14 +19,14 @@ import bitfusion_bench
 
 def get_file_path(mode):
     if(mode == "ant"):
-        read_path = r"d:/ShanghaiTech/2021-Fall/Note_Archive/Research/Intern/test_ANT/output_ant/"
+        read_path = os.getcwd() + "/output_ant/"
     elif(mode == "bitfusion"):
-        read_path = r"d:/ShanghaiTech/2021-Fall/Note_Archive/Research/Intern/test_ANT/output_bitfusion/"
+        read_path = os.getcwd() + "/output_bitfusion/"
     else:
         sys.exit("wrong mode")
     return read_path
 def get_write_file_path():
-    read_path = r"d:/ShanghaiTech/2021-Fall/Note_Archive/Research/Intern/test_ANT/write/"
+    read_path = os.getcwd() + "/write/"
     return read_path
 
 def read_file(mode):

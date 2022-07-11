@@ -15,10 +15,27 @@ test_ant/	# 存放 ANT gemm 程序
 test_bitfusion/	# 存放 BitFusion gemm 程序
 output_ant/	# 存放 ANT gemm 结果
 output_bitfusion/	# 存放 BitFusion gemm 结果
+write/  # 存放处理后的数据
 ...
-analyze.py
-ant_compile&run.sh
-ant_res.csv
-bitfusion_compile&run.sh
+data_analyze.py	# 处理 ant gemm 和 bitfusion gemm 的数据
+conv2gemm.py	# 将 ant_bench.py 和 bitfusion.py 中的 conv, fc op 转换为对应 size 的 gemm 模板
+ant_compile&run.sh	# 编译并运行所有的 ant gemm
+ant_res.csv	
+bitfusion_compile&run.sh # 编译并运行所有的 bitfusion gemm
 bitfusion_res.csv
+```
+
+使用 `python conv2gemm.py` 得到 gemm op 后，把对应的模板粘贴到 `gemm-test/wmma_test.h` 文件中。
+
+# 2. 运行
+
+```shell
+$ ant_compile&run.sh    # 编译并运行所有的 ANT gemm
+$ bitfusion_compile&run.sh  # 编译并运行所有的 BitFusion gemm
+
+# 运行完成后处理数据
+
+$ python data_analyze.py
+
+# 结果在 write 目录下
 ```

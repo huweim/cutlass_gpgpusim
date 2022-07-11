@@ -13,7 +13,7 @@ from psutil import boot_time
 
 
 def get_file_path(path):
-    read_path = r"d:/ShanghaiTech/2021-Fall/Note_Archive/Research/Intern/test_ANT/" + path
+    read_path = os.getcwd() + "/" + path
     return read_path
 
 
