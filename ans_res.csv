@@ -1,0 +1,2146 @@
+m = 3211264 k = 16 n = 64
+m = 3211264 k = 144 n = 64
+m = 802816 k = 144 n = 128
+m = 802816 k = 288 n = 128
+m = 200704 k = 288 n = 256
+m = 200704 k = 576 n = 256
+m = 200704 k = 576 n = 256
+m = 50176 k = 576 n = 512
+m = 50176 k = 1152 n = 512
+m = 50176 k = 1152 n = 512
+m = 12544 k = 1152 n = 512
+m = 12544 k = 1152 n = 512
+m = 12544 k = 1152 n = 512
+m = 64 k = 6272 n = 4096
+m = 64 k = 1024 n = 4096
+m = 64 k = 2048 n = 1000
+m = 802816 k = 80 n = 64
+m = 200704 k = 144 n = 64
+m = 200704 k = 144 n = 64
+m = 200704 k = 144 n = 64
+m = 200704 k = 144 n = 64
+m = 50176 k = 144 n = 128
+m = 50176 k = 288 n = 128
+m = 50176 k = 16 n = 128
+m = 50176 k = 288 n = 128
+m = 50176 k = 288 n = 128
+m = 12544 k = 288 n = 256
+m = 12544 k = 576 n = 256
+m = 12544 k = 32 n = 256
+m = 12544 k = 576 n = 256
+m = 12544 k = 576 n = 256
+m = 3136 k = 576 n = 512
+m = 3136 k = 1152 n = 512
+m = 3136 k = 64 n = 512
+m = 3136 k = 1152 n = 512
+m = 3136 k = 1152 n = 512
+m = 64 k = 256 n = 1000
+m = 802816 k = 80 n = 64
+m = 200704 k = 16 n = 64
+m = 200704 k = 144 n = 64
+m = 200704 k = 16 n = 256
+m = 200704 k = 16 n = 256
+m = 200704 k = 64 n = 64
+m = 200704 k = 144 n = 64
+m = 200704 k = 16 n = 256
+m = 200704 k = 64 n = 64
+m = 200704 k = 144 n = 64
+m = 200704 k = 16 n = 256
+m = 200704 k = 64 n = 128
+m = 50176 k = 288 n = 128
+m = 50176 k = 32 n = 512
+m = 50176 k = 64 n = 512
+m = 50176 k = 128 n = 128
+m = 50176 k = 288 n = 128
+m = 50176 k = 32 n = 512
+m = 50176 k = 128 n = 128
+m = 50176 k = 288 n = 128
+m = 50176 k = 32 n = 512
+m = 50176 k = 128 n = 128
+m = 50176 k = 288 n = 128
+m = 50176 k = 32 n = 512
+m = 50176 k = 128 n = 256
+m = 12544 k = 576 n = 256
+m = 12544 k = 64 n = 1024
+m = 12544 k = 128 n = 1024
+m = 12544 k = 256 n = 256
+m = 12544 k = 576 n = 256
+m = 12544 k = 64 n = 1024
+m = 12544 k = 256 n = 256
+m = 12544 k = 576 n = 256
+m = 12544 k = 64 n = 1024
+m = 12544 k = 256 n = 256
+m = 12544 k = 576 n = 256
+m = 12544 k = 64 n = 1024
+m = 12544 k = 256 n = 256
+m = 12544 k = 576 n = 256
+m = 12544 k = 64 n = 1024
+m = 12544 k = 256 n = 256
+m = 12544 k = 576 n = 256
+m = 12544 k = 64 n = 1024
+m = 12544 k = 256 n = 512
+m = 3136 k = 1152 n = 512
+m = 3136 k = 128 n = 2048
+m = 3136 k = 256 n = 2048
+m = 3136 k = 512 n = 512
+m = 3136 k = 1152 n = 512
+m = 3136 k = 128 n = 2048
+m = 3136 k = 512 n = 512
+m = 3136 k = 1152 n = 512
+m = 3136 k = 128 n = 2048
+m = 64 k = 1024 n = 1000
+m = 1411344 k = 16 n = 32
+m = 1382976 k = 144 n = 32
+m = 1382976 k = 144 n = 64
+m = 341056 k = 32 n = 80
+m = 322624 k = 184 n = 192
+m = 78400 k = 48 n = 64
+m = 78400 k = 48 n = 48
+m = 78400 k = 304 n = 64
+m = 78400 k = 48 n = 64
+m = 78400 k = 144 n = 96
+m = 78400 k = 216 n = 96
+m = 78400 k = 48 n = 32
+m = 78400 k = 64 n = 64
+m = 78400 k = 64 n = 48
+m = 78400 k = 304 n = 64
+m = 78400 k = 64 n = 64
+m = 78400 k = 144 n = 96
+m = 78400 k = 216 n = 96
+m = 78400 k = 64 n = 64
+m = 78400 k = 72 n = 64
+m = 78400 k = 72 n = 48
+m = 78400 k = 304 n = 64
+m = 78400 k = 72 n = 64
+m = 78400 k = 144 n = 96
+m = 78400 k = 216 n = 96
+m = 78400 k = 72 n = 64
+m = 17424 k = 648 n = 384
+m = 78400 k = 72 n = 64
+m = 78400 k = 144 n = 96
+m = 17424 k = 216 n = 96
+m = 18496 k = 192 n = 192
+m = 18496 k = 192 n = 128
+m = 18496 k = 32 n = 128
+m = 18496 k = 1568 n = 192
+m = 18496 k = 192 n = 128
+m = 18496 k = 1568 n = 128
+m = 18496 k = 32 n = 128
+m = 18496 k = 1568 n = 128
+m = 18496 k = 32 n = 192
+m = 18496 k = 192 n = 192
+m = 18496 k = 192 n = 192
+m = 18496 k = 192 n = 160
+m = 18496 k = 40 n = 160
+m = 18496 k = 1960 n = 192
+m = 18496 k = 192 n = 160
+m = 18496 k = 1960 n = 160
+m = 18496 k = 40 n = 160
+m = 18496 k = 1960 n = 160
+m = 18496 k = 40 n = 192
+m = 18496 k = 192 n = 192
+m = 18496 k = 192 n = 192
+m = 18496 k = 192 n = 160
+m = 18496 k = 40 n = 160
+m = 18496 k = 1960 n = 192
+m = 18496 k = 192 n = 160
+m = 18496 k = 1960 n = 160
+m = 18496 k = 40 n = 160
+m = 18496 k = 1960 n = 160
+m = 18496 k = 40 n = 192
+m = 18496 k = 192 n = 192
+m = 18496 k = 192 n = 192
+m = 18496 k = 192 n = 192
+m = 18496 k = 48 n = 192
+m = 18496 k = 2352 n = 192
+m = 18496 k = 192 n = 192
+m = 18496 k = 2352 n = 192
+m = 18496 k = 48 n = 192
+m = 18496 k = 2352 n = 192
+m = 18496 k = 48 n = 192
+m = 18496 k = 192 n = 192
+m = 18496 k = 192 n = 192
+m = 3600 k = 432 n = 320
+m = 18496 k = 192 n = 192
+m = 18496 k = 48 n = 192
+m = 18496 k = 2352 n = 192
+m = 3600 k = 432 n = 192
+m = 4096 k = 320 n = 320
+m = 4096 k = 320 n = 384
+m = 4096 k = 96 n = 384
+m = 4096 k = 864 n = 384
+m = 4096 k = 320 n = 448
+m = 4096 k = 1008 n = 384
+m = 4096 k = 96 n = 384
+m = 4096 k = 864 n = 384
+m = 4096 k = 320 n = 192
+m = 4096 k = 512 n = 320
+m = 4096 k = 512 n = 384
+m = 4096 k = 96 n = 384
+m = 4096 k = 864 n = 384
+m = 4096 k = 512 n = 448
+m = 4096 k = 1008 n = 384
+m = 4096 k = 96 n = 384
+m = 4096 k = 864 n = 384
+m = 4096 k = 512 n = 192
+m = 64 k = 1024 n = 1000
+m = 12608 k = 192 n = 2304
+m = 12608 k = 384 n = 768
+m = 12608 k = 384 n = 3072
+m = 12608 k = 1536 n = 768
+m = 12608 k = 192 n = 2304
+m = 12608 k = 192 n = 768
+m = 12608 k = 384 n = 3072
+m = 12608 k = 768 n = 768
+m = 12608 k = 192 n = 2304
+m = 12608 k = 192 n = 768
+m = 12608 k = 384 n = 3072
+m = 12608 k = 768 n = 768
+m = 12608 k = 192 n = 2304
+m = 12608 k = 192 n = 768
+m = 12608 k = 192 n = 3072
+m = 12608 k = 768 n = 768
+m = 12608 k = 192 n = 2304
+m = 12608 k = 192 n = 768
+m = 12608 k = 192 n = 3072
+m = 12608 k = 768 n = 768
+m = 12608 k = 192 n = 2304
+m = 12608 k = 192 n = 768
+m = 12608 k = 384 n = 3072
+m = 12608 k = 768 n = 768
+m = 12608 k = 384 n = 2304
+m = 12608 k = 192 n = 768
+m = 12608 k = 192 n = 3072
+m = 12608 k = 768 n = 768
+m = 12608 k = 192 n = 2304
+m = 12608 k = 192 n = 768
+m = 12608 k = 384 n = 3072
+m = 12608 k = 768 n = 768
+m = 12608 k = 192 n = 2304
+m = 12608 k = 192 n = 768
+m = 12608 k = 192 n = 3072
+m = 12608 k = 768 n = 768
+m = 12608 k = 192 n = 2304
+m = 12608 k = 192 n = 768
+m = 12608 k = 192 n = 3072
+m = 12608 k = 768 n = 768
+m = 12608 k = 192 n = 2304
+m = 12608 k = 192 n = 768
+m = 12608 k = 192 n = 3072
+m = 12608 k = 1536 n = 768
+m = 12608 k = 192 n = 2304
+m = 12608 k = 192 n = 768
+m = 12608 k = 192 n = 3072
+m = 12608 k = 768 n = 768
+m = 64 k = 384 n = 1000
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 64 k = 384 n = 768
+m = 64 k = 384 n = 8
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 64 k = 192 n = 768
+m = 64 k = 192 n = 8
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 64 k = 384 n = 768
+m = 64 k = 384 n = 8
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 384 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 384 n = 768
+m = 8192 k = 384 n = 768
+m = 8192 k = 384 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 384 n = 768
+m = 8192 k = 384 n = 768
+m = 8192 k = 384 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 1536 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 64 k = 384 n = 768
+m = 64 k = 384 n = 8
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 64 k = 192 n = 768
+m = 64 k = 192 n = 8
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 384 n = 768
+m = 8192 k = 384 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 64 k = 384 n = 768
+m = 64 k = 384 n = 8
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 384 n = 768
+m = 8192 k = 384 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 64 k = 384 n = 768
+m = 64 k = 384 n = 8
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 384 n = 768
+m = 8192 k = 384 n = 768
+m = 8192 k = 384 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 1536 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 768
+m = 8192 k = 192 n = 3072
+m = 8192 k = 768 n = 768
+m = 64 k = 384 n = 768
+m = 64 k = 384 n = 8
+
+
+3211264 16 64
+3211264 144 64
+802816 144 128
+802816 288 128
+200704 288 256
+200704 576 256
+50176 576 512
+50176 1152 512
+12544 1152 512
+64 6272 4096
+64 1024 4096
+64 2048 1000
+802816 80 64
+200704 144 64
+50176 144 128
+50176 288 128
+50176 16 128
+12544 288 256
+12544 576 256
+12544 32 256
+3136 576 512
+3136 1152 512
+3136 64 512
+64 256 1000
+200704 16 64
+200704 16 256
+200704 64 64
+200704 64 128
+50176 32 512
+50176 64 512
+50176 128 128
+50176 128 256
+12544 64 1024
+12544 128 1024
+12544 256 256
+12544 256 512
+3136 128 2048
+3136 256 2048
+3136 512 512
+64 1024 1000
+1411344 16 32
+1382976 144 32
+1382976 144 64
+341056 32 80
+322624 184 192
+78400 48 64
+78400 48 48
+78400 304 64
+78400 144 96
+78400 216 96
+78400 48 32
+78400 64 64
+78400 64 48
+78400 72 64
+78400 72 48
+17424 648 384
+17424 216 96
+18496 192 192
+18496 192 128
+18496 32 128
+18496 1568 192
+18496 1568 128
+18496 32 192
+18496 192 160
+18496 40 160
+18496 1960 192
+18496 1960 160
+18496 40 192
+18496 48 192
+18496 2352 192
+3600 432 320
+3600 432 192
+4096 320 320
+4096 320 384
+4096 96 384
+4096 864 384
+4096 320 448
+4096 1008 384
+4096 320 192
+4096 512 320
+4096 512 384
+4096 512 448
+4096 512 192
+12608 192 2304
+12608 384 768
+12608 384 3072
+12608 1536 768
+12608 192 768
+12608 768 768
+12608 192 3072
+12608 384 2304
+64 384 1000
+8192 192 768
+8192 192 3072
+8192 768 768
+64 384 768
+64 384 8
+64 192 768
+64 192 8
+8192 384 768
+8192 1536 768
+
+
+  #ifdef WMMA_46
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits46;
+  run_gemm<WmmaGemmTraits46>(3211264, 64, 16);
+  #endif
+  #ifdef WMMA_47
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits47;
+  run_gemm<WmmaGemmTraits47>(3211264, 64, 144);
+  #endif
+  #ifdef WMMA_48
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits48;
+  run_gemm<WmmaGemmTraits48>(802816, 128, 144);
+  #endif
+  #ifdef WMMA_49
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits49;
+  run_gemm<WmmaGemmTraits49>(802816, 128, 288);
+  #endif
+  #ifdef WMMA_50
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits50;
+  run_gemm<WmmaGemmTraits50>(200704, 256, 288);
+  #endif
+  #ifdef WMMA_51
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits51;
+  run_gemm<WmmaGemmTraits51>(200704, 256, 576);
+  #endif
+  #ifdef WMMA_52
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits52;
+  run_gemm<WmmaGemmTraits52>(50176, 512, 576);
+  #endif
+  #ifdef WMMA_53
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits53;
+  run_gemm<WmmaGemmTraits53>(50176, 512, 1152);
+  #endif
+  #ifdef WMMA_54
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits54;
+  run_gemm<WmmaGemmTraits54>(12544, 512, 1152);
+  #endif
+  #ifdef WMMA_55
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits55;
+  run_gemm<WmmaGemmTraits55>(64, 4096, 6272);
+  #endif
+  #ifdef WMMA_56
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits56;
+  run_gemm<WmmaGemmTraits56>(64, 4096, 1024);
+  #endif
+  #ifdef WMMA_57
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits57;
+  run_gemm<WmmaGemmTraits57>(64, 1000, 2048);
+  #endif
+  #ifdef WMMA_58
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits58;
+  run_gemm<WmmaGemmTraits58>(802816, 64, 80);
+  #endif
+  #ifdef WMMA_59
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits59;
+  run_gemm<WmmaGemmTraits59>(200704, 64, 144);
+  #endif
+  #ifdef WMMA_60
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits60;
+  run_gemm<WmmaGemmTraits60>(50176, 128, 144);
+  #endif
+  #ifdef WMMA_61
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits61;
+  run_gemm<WmmaGemmTraits61>(50176, 128, 288);
+  #endif
+  #ifdef WMMA_62
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits62;
+  run_gemm<WmmaGemmTraits62>(50176, 128, 16);
+  #endif
+  #ifdef WMMA_63
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits63;
+  run_gemm<WmmaGemmTraits63>(12544, 256, 288);
+  #endif
+  #ifdef WMMA_64
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits64;
+  run_gemm<WmmaGemmTraits64>(12544, 256, 576);
+  #endif
+  #ifdef WMMA_65
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits65;
+  run_gemm<WmmaGemmTraits65>(12544, 256, 32);
+  #endif
+  #ifdef WMMA_66
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits66;
+  run_gemm<WmmaGemmTraits66>(3136, 512, 576);
+  #endif
+  #ifdef WMMA_67
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits67;
+  run_gemm<WmmaGemmTraits67>(3136, 512, 1152);
+  #endif
+  #ifdef WMMA_68
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits68;
+  run_gemm<WmmaGemmTraits68>(3136, 512, 64);
+  #endif
+  #ifdef WMMA_69
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits69;
+  run_gemm<WmmaGemmTraits69>(64, 1000, 256);
+  #endif
+  #ifdef WMMA_70
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits70;
+  run_gemm<WmmaGemmTraits70>(200704, 64, 16);
+  #endif
+  #ifdef WMMA_71
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits71;
+  run_gemm<WmmaGemmTraits71>(200704, 256, 16);
+  #endif
+  #ifdef WMMA_72
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits72;
+  run_gemm<WmmaGemmTraits72>(200704, 64, 64);
+  #endif
+  #ifdef WMMA_73
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits73;
+  run_gemm<WmmaGemmTraits73>(200704, 128, 64);
+  #endif
+  #ifdef WMMA_74
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits74;
+  run_gemm<WmmaGemmTraits74>(50176, 512, 32);
+  #endif
+  #ifdef WMMA_75
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits75;
+  run_gemm<WmmaGemmTraits75>(50176, 512, 64);
+  #endif
+  #ifdef WMMA_76
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits76;
+  run_gemm<WmmaGemmTraits76>(50176, 128, 128);
+  #endif
+  #ifdef WMMA_77
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits77;
+  run_gemm<WmmaGemmTraits77>(50176, 256, 128);
+  #endif
+  #ifdef WMMA_78
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits78;
+  run_gemm<WmmaGemmTraits78>(12544, 1024, 64);
+  #endif
+  #ifdef WMMA_79
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits79;
+  run_gemm<WmmaGemmTraits79>(12544, 1024, 128);
+  #endif
+  #ifdef WMMA_80
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits80;
+  run_gemm<WmmaGemmTraits80>(12544, 256, 256);
+  #endif
+  #ifdef WMMA_81
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits81;
+  run_gemm<WmmaGemmTraits81>(12544, 512, 256);
+  #endif
+  #ifdef WMMA_82
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits82;
+  run_gemm<WmmaGemmTraits82>(3136, 2048, 128);
+  #endif
+  #ifdef WMMA_83
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits83;
+  run_gemm<WmmaGemmTraits83>(3136, 2048, 256);
+  #endif
+  #ifdef WMMA_84
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits84;
+  run_gemm<WmmaGemmTraits84>(3136, 512, 512);
+  #endif
+  #ifdef WMMA_85
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits85;
+  run_gemm<WmmaGemmTraits85>(64, 1000, 1024);
+  #endif
+  #ifdef WMMA_86
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits86;
+  run_gemm<WmmaGemmTraits86>(1411344, 32, 16);
+  #endif
+  #ifdef WMMA_87
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits87;
+  run_gemm<WmmaGemmTraits87>(1382976, 32, 144);
+  #endif
+  #ifdef WMMA_88
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits88;
+  run_gemm<WmmaGemmTraits88>(1382976, 64, 144);
+  #endif
+  #ifdef WMMA_89
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits89;
+  run_gemm<WmmaGemmTraits89>(341056, 80, 32);
+  #endif
+  #ifdef WMMA_90
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits90;
+  run_gemm<WmmaGemmTraits90>(322624, 192, 184);
+  #endif
+  #ifdef WMMA_91
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits91;
+  run_gemm<WmmaGemmTraits91>(78400, 64, 48);
+  #endif
+  #ifdef WMMA_92
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits92;
+  run_gemm<WmmaGemmTraits92>(78400, 48, 48);
+  #endif
+  #ifdef WMMA_93
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits93;
+  run_gemm<WmmaGemmTraits93>(78400, 64, 304);
+  #endif
+  #ifdef WMMA_94
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits94;
+  run_gemm<WmmaGemmTraits94>(78400, 96, 144);
+  #endif
+  #ifdef WMMA_95
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits95;
+  run_gemm<WmmaGemmTraits95>(78400, 96, 216);
+  #endif
+  #ifdef WMMA_96
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits96;
+  run_gemm<WmmaGemmTraits96>(78400, 32, 48);
+  #endif
+  #ifdef WMMA_97
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits97;
+  run_gemm<WmmaGemmTraits97>(78400, 64, 64);
+  #endif
+  #ifdef WMMA_98
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits98;
+  run_gemm<WmmaGemmTraits98>(78400, 48, 64);
+  #endif
+  #ifdef WMMA_99
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits99;
+  run_gemm<WmmaGemmTraits99>(78400, 64, 72);
+  #endif
+  #ifdef WMMA_100
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits100;
+  run_gemm<WmmaGemmTraits100>(78400, 48, 72);
+  #endif
+  #ifdef WMMA_101
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits101;
+  run_gemm<WmmaGemmTraits101>(17424, 384, 648);
+  #endif
+  #ifdef WMMA_102
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits102;
+  run_gemm<WmmaGemmTraits102>(17424, 96, 216);
+  #endif
+  #ifdef WMMA_103
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits103;
+  run_gemm<WmmaGemmTraits103>(18496, 192, 192);
+  #endif
+  #ifdef WMMA_104
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits104;
+  run_gemm<WmmaGemmTraits104>(18496, 128, 192);
+  #endif
+  #ifdef WMMA_105
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits105;
+  run_gemm<WmmaGemmTraits105>(18496, 128, 32);
+  #endif
+  #ifdef WMMA_106
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits106;
+  run_gemm<WmmaGemmTraits106>(18496, 192, 1568);
+  #endif
+  #ifdef WMMA_107
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits107;
+  run_gemm<WmmaGemmTraits107>(18496, 128, 1568);
+  #endif
+  #ifdef WMMA_108
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits108;
+  run_gemm<WmmaGemmTraits108>(18496, 192, 32);
+  #endif
+  #ifdef WMMA_109
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits109;
+  run_gemm<WmmaGemmTraits109>(18496, 160, 192);
+  #endif
+  #ifdef WMMA_110
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits110;
+  run_gemm<WmmaGemmTraits110>(18496, 160, 40);
+  #endif
+  #ifdef WMMA_111
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits111;
+  run_gemm<WmmaGemmTraits111>(18496, 192, 1960);
+  #endif
+  #ifdef WMMA_112
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits112;
+  run_gemm<WmmaGemmTraits112>(18496, 160, 1960);
+  #endif
+  #ifdef WMMA_113
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits113;
+  run_gemm<WmmaGemmTraits113>(18496, 192, 40);
+  #endif
+  #ifdef WMMA_114
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits114;
+  run_gemm<WmmaGemmTraits114>(18496, 192, 48);
+  #endif
+  #ifdef WMMA_115
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits115;
+  run_gemm<WmmaGemmTraits115>(18496, 192, 2352);
+  #endif
+  #ifdef WMMA_116
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits116;
+  run_gemm<WmmaGemmTraits116>(3600, 320, 432);
+  #endif
+  #ifdef WMMA_117
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits117;
+  run_gemm<WmmaGemmTraits117>(3600, 192, 432);
+  #endif
+  #ifdef WMMA_118
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits118;
+  run_gemm<WmmaGemmTraits118>(4096, 320, 320);
+  #endif
+  #ifdef WMMA_119
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits119;
+  run_gemm<WmmaGemmTraits119>(4096, 384, 320);
+  #endif
+  #ifdef WMMA_120
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits120;
+  run_gemm<WmmaGemmTraits120>(4096, 384, 96);
+  #endif
+  #ifdef WMMA_121
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits121;
+  run_gemm<WmmaGemmTraits121>(4096, 384, 864);
+  #endif
+  #ifdef WMMA_122
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits122;
+  run_gemm<WmmaGemmTraits122>(4096, 448, 320);
+  #endif
+  #ifdef WMMA_123
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits123;
+  run_gemm<WmmaGemmTraits123>(4096, 384, 1008);
+  #endif
+  #ifdef WMMA_124
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits124;
+  run_gemm<WmmaGemmTraits124>(4096, 192, 320);
+  #endif
+  #ifdef WMMA_125
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits125;
+  run_gemm<WmmaGemmTraits125>(4096, 320, 512);
+  #endif
+  #ifdef WMMA_126
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits126;
+  run_gemm<WmmaGemmTraits126>(4096, 384, 512);
+  #endif
+  #ifdef WMMA_127
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits127;
+  run_gemm<WmmaGemmTraits127>(4096, 448, 512);
+  #endif
+  #ifdef WMMA_128
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits128;
+  run_gemm<WmmaGemmTraits128>(4096, 192, 512);
+  #endif
+  #ifdef WMMA_129
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits129;
+  run_gemm<WmmaGemmTraits129>(12608, 2304, 192);
+  #endif
+  #ifdef WMMA_130
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits130;
+  run_gemm<WmmaGemmTraits130>(12608, 768, 384);
+  #endif
+  #ifdef WMMA_131
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits131;
+  run_gemm<WmmaGemmTraits131>(12608, 3072, 384);
+  #endif
+  #ifdef WMMA_132
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits132;
+  run_gemm<WmmaGemmTraits132>(12608, 768, 1536);
+  #endif
+  #ifdef WMMA_133
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits133;
+  run_gemm<WmmaGemmTraits133>(12608, 768, 192);
+  #endif
+  #ifdef WMMA_134
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits134;
+  run_gemm<WmmaGemmTraits134>(12608, 768, 768);
+  #endif
+  #ifdef WMMA_135
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits135;
+  run_gemm<WmmaGemmTraits135>(12608, 3072, 192);
+  #endif
+  #ifdef WMMA_136
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits136;
+  run_gemm<WmmaGemmTraits136>(12608, 2304, 384);
+  #endif
+  #ifdef WMMA_137
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits137;
+  run_gemm<WmmaGemmTraits137>(64, 1000, 384);
+  #endif
+  #ifdef WMMA_138
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits138;
+  run_gemm<WmmaGemmTraits138>(8192, 768, 192);
+  #endif
+  #ifdef WMMA_139
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits139;
+  run_gemm<WmmaGemmTraits139>(8192, 3072, 192);
+  #endif
+  #ifdef WMMA_140
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits140;
+  run_gemm<WmmaGemmTraits140>(8192, 768, 768);
+  #endif
+  #ifdef WMMA_141
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits141;
+  run_gemm<WmmaGemmTraits141>(64, 768, 384);
+  #endif
+  #ifdef WMMA_142
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits142;
+  run_gemm<WmmaGemmTraits142>(64, 8, 384);
+  #endif
+  #ifdef WMMA_143
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits143;
+  run_gemm<WmmaGemmTraits143>(64, 768, 192);
+  #endif
+  #ifdef WMMA_144
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits144;
+  run_gemm<WmmaGemmTraits144>(64, 8, 192);
+  #endif
+  #ifdef WMMA_145
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits145;
+  run_gemm<WmmaGemmTraits145>(8192, 768, 384);
+  #endif
+  #ifdef WMMA_146
+  typedef cutlass::gemm::WmmaGemmTraits<cutlass::MatrixLayout::kRowMajor,
+                                        cutlass::MatrixLayout::kColumnMajor,
+                                        cutlass::Shape<64, 128, 128> >
+      WmmaGemmTraits146;
+  run_gemm<WmmaGemmTraits146>(8192, 768, 1536);
+  #endif
+
+
+make CFLAGS=-DWMMA_46
+mkdir ./test/3211264_64_16
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/3211264_64_16
+./test/3211264_64_16/cutlass-test >> ./output/3211264_64_16.log &
+make clean
+make CFLAGS=-DWMMA_47
+mkdir ./test/3211264_64_144
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/3211264_64_144
+./test/3211264_64_144/cutlass-test >> ./output/3211264_64_144.log &
+make clean
+make CFLAGS=-DWMMA_48
+mkdir ./test/802816_128_144
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/802816_128_144
+./test/802816_128_144/cutlass-test >> ./output/802816_128_144.log &
+make clean
+make CFLAGS=-DWMMA_49
+mkdir ./test/802816_128_288
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/802816_128_288
+./test/802816_128_288/cutlass-test >> ./output/802816_128_288.log &
+make clean
+make CFLAGS=-DWMMA_50
+mkdir ./test/200704_256_288
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/200704_256_288
+./test/200704_256_288/cutlass-test >> ./output/200704_256_288.log &
+make clean
+make CFLAGS=-DWMMA_51
+mkdir ./test/200704_256_576
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/200704_256_576
+./test/200704_256_576/cutlass-test >> ./output/200704_256_576.log &
+make clean
+make CFLAGS=-DWMMA_52
+mkdir ./test/50176_512_576
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/50176_512_576
+./test/50176_512_576/cutlass-test >> ./output/50176_512_576.log &
+make clean
+make CFLAGS=-DWMMA_53
+mkdir ./test/50176_512_1152
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/50176_512_1152
+./test/50176_512_1152/cutlass-test >> ./output/50176_512_1152.log &
+make clean
+make CFLAGS=-DWMMA_54
+mkdir ./test/12544_512_1152
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12544_512_1152
+./test/12544_512_1152/cutlass-test >> ./output/12544_512_1152.log &
+make clean
+make CFLAGS=-DWMMA_55
+mkdir ./test/64_4096_6272
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/64_4096_6272
+./test/64_4096_6272/cutlass-test >> ./output/64_4096_6272.log &
+make clean
+make CFLAGS=-DWMMA_56
+mkdir ./test/64_4096_1024
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/64_4096_1024
+./test/64_4096_1024/cutlass-test >> ./output/64_4096_1024.log &
+make clean
+make CFLAGS=-DWMMA_57
+mkdir ./test/64_1000_2048
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/64_1000_2048
+./test/64_1000_2048/cutlass-test >> ./output/64_1000_2048.log &
+make clean
+make CFLAGS=-DWMMA_58
+mkdir ./test/802816_64_80
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/802816_64_80
+./test/802816_64_80/cutlass-test >> ./output/802816_64_80.log &
+make clean
+make CFLAGS=-DWMMA_59
+mkdir ./test/200704_64_144
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/200704_64_144
+./test/200704_64_144/cutlass-test >> ./output/200704_64_144.log &
+make clean
+make CFLAGS=-DWMMA_60
+mkdir ./test/50176_128_144
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/50176_128_144
+./test/50176_128_144/cutlass-test >> ./output/50176_128_144.log &
+make clean
+make CFLAGS=-DWMMA_61
+mkdir ./test/50176_128_288
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/50176_128_288
+./test/50176_128_288/cutlass-test >> ./output/50176_128_288.log &
+make clean
+make CFLAGS=-DWMMA_62
+mkdir ./test/50176_128_16
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/50176_128_16
+./test/50176_128_16/cutlass-test >> ./output/50176_128_16.log &
+make clean
+make CFLAGS=-DWMMA_63
+mkdir ./test/12544_256_288
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12544_256_288
+./test/12544_256_288/cutlass-test >> ./output/12544_256_288.log &
+make clean
+make CFLAGS=-DWMMA_64
+mkdir ./test/12544_256_576
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12544_256_576
+./test/12544_256_576/cutlass-test >> ./output/12544_256_576.log &
+make clean
+make CFLAGS=-DWMMA_65
+mkdir ./test/12544_256_32
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12544_256_32
+./test/12544_256_32/cutlass-test >> ./output/12544_256_32.log &
+make clean
+make CFLAGS=-DWMMA_66
+mkdir ./test/3136_512_576
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/3136_512_576
+./test/3136_512_576/cutlass-test >> ./output/3136_512_576.log &
+make clean
+make CFLAGS=-DWMMA_67
+mkdir ./test/3136_512_1152
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/3136_512_1152
+./test/3136_512_1152/cutlass-test >> ./output/3136_512_1152.log &
+make clean
+make CFLAGS=-DWMMA_68
+mkdir ./test/3136_512_64
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/3136_512_64
+./test/3136_512_64/cutlass-test >> ./output/3136_512_64.log &
+make clean
+make CFLAGS=-DWMMA_69
+mkdir ./test/64_1000_256
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/64_1000_256
+./test/64_1000_256/cutlass-test >> ./output/64_1000_256.log &
+make clean
+make CFLAGS=-DWMMA_70
+mkdir ./test/200704_64_16
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/200704_64_16
+./test/200704_64_16/cutlass-test >> ./output/200704_64_16.log &
+make clean
+make CFLAGS=-DWMMA_71
+mkdir ./test/200704_256_16
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/200704_256_16
+./test/200704_256_16/cutlass-test >> ./output/200704_256_16.log &
+make clean
+make CFLAGS=-DWMMA_72
+mkdir ./test/200704_64_64
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/200704_64_64
+./test/200704_64_64/cutlass-test >> ./output/200704_64_64.log &
+make clean
+make CFLAGS=-DWMMA_73
+mkdir ./test/200704_128_64
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/200704_128_64
+./test/200704_128_64/cutlass-test >> ./output/200704_128_64.log &
+make clean
+make CFLAGS=-DWMMA_74
+mkdir ./test/50176_512_32
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/50176_512_32
+./test/50176_512_32/cutlass-test >> ./output/50176_512_32.log &
+make clean
+make CFLAGS=-DWMMA_75
+mkdir ./test/50176_512_64
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/50176_512_64
+./test/50176_512_64/cutlass-test >> ./output/50176_512_64.log &
+make clean
+make CFLAGS=-DWMMA_76
+mkdir ./test/50176_128_128
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/50176_128_128
+./test/50176_128_128/cutlass-test >> ./output/50176_128_128.log &
+make clean
+make CFLAGS=-DWMMA_77
+mkdir ./test/50176_256_128
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/50176_256_128
+./test/50176_256_128/cutlass-test >> ./output/50176_256_128.log &
+make clean
+make CFLAGS=-DWMMA_78
+mkdir ./test/12544_1024_64
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12544_1024_64
+./test/12544_1024_64/cutlass-test >> ./output/12544_1024_64.log &
+make clean
+make CFLAGS=-DWMMA_79
+mkdir ./test/12544_1024_128
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12544_1024_128
+./test/12544_1024_128/cutlass-test >> ./output/12544_1024_128.log &
+make clean
+make CFLAGS=-DWMMA_80
+mkdir ./test/12544_256_256
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12544_256_256
+./test/12544_256_256/cutlass-test >> ./output/12544_256_256.log &
+make clean
+make CFLAGS=-DWMMA_81
+mkdir ./test/12544_512_256
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12544_512_256
+./test/12544_512_256/cutlass-test >> ./output/12544_512_256.log &
+make clean
+make CFLAGS=-DWMMA_82
+mkdir ./test/3136_2048_128
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/3136_2048_128
+./test/3136_2048_128/cutlass-test >> ./output/3136_2048_128.log &
+make clean
+make CFLAGS=-DWMMA_83
+mkdir ./test/3136_2048_256
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/3136_2048_256
+./test/3136_2048_256/cutlass-test >> ./output/3136_2048_256.log &
+make clean
+make CFLAGS=-DWMMA_84
+mkdir ./test/3136_512_512
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/3136_512_512
+./test/3136_512_512/cutlass-test >> ./output/3136_512_512.log &
+make clean
+make CFLAGS=-DWMMA_85
+mkdir ./test/64_1000_1024
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/64_1000_1024
+./test/64_1000_1024/cutlass-test >> ./output/64_1000_1024.log &
+make clean
+make CFLAGS=-DWMMA_86
+mkdir ./test/1411344_32_16
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/1411344_32_16
+./test/1411344_32_16/cutlass-test >> ./output/1411344_32_16.log &
+make clean
+make CFLAGS=-DWMMA_87
+mkdir ./test/1382976_32_144
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/1382976_32_144
+./test/1382976_32_144/cutlass-test >> ./output/1382976_32_144.log &
+make clean
+make CFLAGS=-DWMMA_88
+mkdir ./test/1382976_64_144
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/1382976_64_144
+./test/1382976_64_144/cutlass-test >> ./output/1382976_64_144.log &
+make clean
+make CFLAGS=-DWMMA_89
+mkdir ./test/341056_80_32
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/341056_80_32
+./test/341056_80_32/cutlass-test >> ./output/341056_80_32.log &
+make clean
+make CFLAGS=-DWMMA_90
+mkdir ./test/322624_192_184
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/322624_192_184
+./test/322624_192_184/cutlass-test >> ./output/322624_192_184.log &
+make clean
+make CFLAGS=-DWMMA_91
+mkdir ./test/78400_64_48
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/78400_64_48
+./test/78400_64_48/cutlass-test >> ./output/78400_64_48.log &
+make clean
+make CFLAGS=-DWMMA_92
+mkdir ./test/78400_48_48
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/78400_48_48
+./test/78400_48_48/cutlass-test >> ./output/78400_48_48.log &
+make clean
+make CFLAGS=-DWMMA_93
+mkdir ./test/78400_64_304
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/78400_64_304
+./test/78400_64_304/cutlass-test >> ./output/78400_64_304.log &
+make clean
+make CFLAGS=-DWMMA_94
+mkdir ./test/78400_96_144
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/78400_96_144
+./test/78400_96_144/cutlass-test >> ./output/78400_96_144.log &
+make clean
+make CFLAGS=-DWMMA_95
+mkdir ./test/78400_96_216
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/78400_96_216
+./test/78400_96_216/cutlass-test >> ./output/78400_96_216.log &
+make clean
+make CFLAGS=-DWMMA_96
+mkdir ./test/78400_32_48
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/78400_32_48
+./test/78400_32_48/cutlass-test >> ./output/78400_32_48.log &
+make clean
+make CFLAGS=-DWMMA_97
+mkdir ./test/78400_64_64
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/78400_64_64
+./test/78400_64_64/cutlass-test >> ./output/78400_64_64.log &
+make clean
+make CFLAGS=-DWMMA_98
+mkdir ./test/78400_48_64
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/78400_48_64
+./test/78400_48_64/cutlass-test >> ./output/78400_48_64.log &
+make clean
+make CFLAGS=-DWMMA_99
+mkdir ./test/78400_64_72
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/78400_64_72
+./test/78400_64_72/cutlass-test >> ./output/78400_64_72.log &
+make clean
+make CFLAGS=-DWMMA_100
+mkdir ./test/78400_48_72
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/78400_48_72
+./test/78400_48_72/cutlass-test >> ./output/78400_48_72.log &
+make clean
+make CFLAGS=-DWMMA_101
+mkdir ./test/17424_384_648
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/17424_384_648
+./test/17424_384_648/cutlass-test >> ./output/17424_384_648.log &
+make clean
+make CFLAGS=-DWMMA_102
+mkdir ./test/17424_96_216
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/17424_96_216
+./test/17424_96_216/cutlass-test >> ./output/17424_96_216.log &
+make clean
+make CFLAGS=-DWMMA_103
+mkdir ./test/18496_192_192
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/18496_192_192
+./test/18496_192_192/cutlass-test >> ./output/18496_192_192.log &
+make clean
+make CFLAGS=-DWMMA_104
+mkdir ./test/18496_128_192
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/18496_128_192
+./test/18496_128_192/cutlass-test >> ./output/18496_128_192.log &
+make clean
+make CFLAGS=-DWMMA_105
+mkdir ./test/18496_128_32
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/18496_128_32
+./test/18496_128_32/cutlass-test >> ./output/18496_128_32.log &
+make clean
+make CFLAGS=-DWMMA_106
+mkdir ./test/18496_192_1568
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/18496_192_1568
+./test/18496_192_1568/cutlass-test >> ./output/18496_192_1568.log &
+make clean
+make CFLAGS=-DWMMA_107
+mkdir ./test/18496_128_1568
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/18496_128_1568
+./test/18496_128_1568/cutlass-test >> ./output/18496_128_1568.log &
+make clean
+make CFLAGS=-DWMMA_108
+mkdir ./test/18496_192_32
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/18496_192_32
+./test/18496_192_32/cutlass-test >> ./output/18496_192_32.log &
+make clean
+make CFLAGS=-DWMMA_109
+mkdir ./test/18496_160_192
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/18496_160_192
+./test/18496_160_192/cutlass-test >> ./output/18496_160_192.log &
+make clean
+make CFLAGS=-DWMMA_110
+mkdir ./test/18496_160_40
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/18496_160_40
+./test/18496_160_40/cutlass-test >> ./output/18496_160_40.log &
+make clean
+make CFLAGS=-DWMMA_111
+mkdir ./test/18496_192_1960
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/18496_192_1960
+./test/18496_192_1960/cutlass-test >> ./output/18496_192_1960.log &
+make clean
+make CFLAGS=-DWMMA_112
+mkdir ./test/18496_160_1960
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/18496_160_1960
+./test/18496_160_1960/cutlass-test >> ./output/18496_160_1960.log &
+make clean
+make CFLAGS=-DWMMA_113
+mkdir ./test/18496_192_40
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/18496_192_40
+./test/18496_192_40/cutlass-test >> ./output/18496_192_40.log &
+make clean
+make CFLAGS=-DWMMA_114
+mkdir ./test/18496_192_48
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/18496_192_48
+./test/18496_192_48/cutlass-test >> ./output/18496_192_48.log &
+make clean
+make CFLAGS=-DWMMA_115
+mkdir ./test/18496_192_2352
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/18496_192_2352
+./test/18496_192_2352/cutlass-test >> ./output/18496_192_2352.log &
+make clean
+make CFLAGS=-DWMMA_116
+mkdir ./test/3600_320_432
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/3600_320_432
+./test/3600_320_432/cutlass-test >> ./output/3600_320_432.log &
+make clean
+make CFLAGS=-DWMMA_117
+mkdir ./test/3600_192_432
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/3600_192_432
+./test/3600_192_432/cutlass-test >> ./output/3600_192_432.log &
+make clean
+make CFLAGS=-DWMMA_118
+mkdir ./test/4096_320_320
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/4096_320_320
+./test/4096_320_320/cutlass-test >> ./output/4096_320_320.log &
+make clean
+make CFLAGS=-DWMMA_119
+mkdir ./test/4096_384_320
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/4096_384_320
+./test/4096_384_320/cutlass-test >> ./output/4096_384_320.log &
+make clean
+make CFLAGS=-DWMMA_120
+mkdir ./test/4096_384_96
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/4096_384_96
+./test/4096_384_96/cutlass-test >> ./output/4096_384_96.log &
+make clean
+make CFLAGS=-DWMMA_121
+mkdir ./test/4096_384_864
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/4096_384_864
+./test/4096_384_864/cutlass-test >> ./output/4096_384_864.log &
+make clean
+make CFLAGS=-DWMMA_122
+mkdir ./test/4096_448_320
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/4096_448_320
+./test/4096_448_320/cutlass-test >> ./output/4096_448_320.log &
+make clean
+make CFLAGS=-DWMMA_123
+mkdir ./test/4096_384_1008
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/4096_384_1008
+./test/4096_384_1008/cutlass-test >> ./output/4096_384_1008.log &
+make clean
+make CFLAGS=-DWMMA_124
+mkdir ./test/4096_192_320
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/4096_192_320
+./test/4096_192_320/cutlass-test >> ./output/4096_192_320.log &
+make clean
+make CFLAGS=-DWMMA_125
+mkdir ./test/4096_320_512
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/4096_320_512
+./test/4096_320_512/cutlass-test >> ./output/4096_320_512.log &
+make clean
+make CFLAGS=-DWMMA_126
+mkdir ./test/4096_384_512
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/4096_384_512
+./test/4096_384_512/cutlass-test >> ./output/4096_384_512.log &
+make clean
+make CFLAGS=-DWMMA_127
+mkdir ./test/4096_448_512
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/4096_448_512
+./test/4096_448_512/cutlass-test >> ./output/4096_448_512.log &
+make clean
+make CFLAGS=-DWMMA_128
+mkdir ./test/4096_192_512
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/4096_192_512
+./test/4096_192_512/cutlass-test >> ./output/4096_192_512.log &
+make clean
+make CFLAGS=-DWMMA_129
+mkdir ./test/12608_2304_192
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12608_2304_192
+./test/12608_2304_192/cutlass-test >> ./output/12608_2304_192.log &
+make clean
+make CFLAGS=-DWMMA_130
+mkdir ./test/12608_768_384
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12608_768_384
+./test/12608_768_384/cutlass-test >> ./output/12608_768_384.log &
+make clean
+make CFLAGS=-DWMMA_131
+mkdir ./test/12608_3072_384
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12608_3072_384
+./test/12608_3072_384/cutlass-test >> ./output/12608_3072_384.log &
+make clean
+make CFLAGS=-DWMMA_132
+mkdir ./test/12608_768_1536
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12608_768_1536
+./test/12608_768_1536/cutlass-test >> ./output/12608_768_1536.log &
+make clean
+make CFLAGS=-DWMMA_133
+mkdir ./test/12608_768_192
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12608_768_192
+./test/12608_768_192/cutlass-test >> ./output/12608_768_192.log &
+make clean
+make CFLAGS=-DWMMA_134
+mkdir ./test/12608_768_768
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12608_768_768
+./test/12608_768_768/cutlass-test >> ./output/12608_768_768.log &
+make clean
+make CFLAGS=-DWMMA_135
+mkdir ./test/12608_3072_192
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12608_3072_192
+./test/12608_3072_192/cutlass-test >> ./output/12608_3072_192.log &
+make clean
+make CFLAGS=-DWMMA_136
+mkdir ./test/12608_2304_384
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/12608_2304_384
+./test/12608_2304_384/cutlass-test >> ./output/12608_2304_384.log &
+make clean
+make CFLAGS=-DWMMA_137
+mkdir ./test/64_1000_384
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/64_1000_384
+./test/64_1000_384/cutlass-test >> ./output/64_1000_384.log &
+make clean
+make CFLAGS=-DWMMA_138
+mkdir ./test/8192_768_192
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/8192_768_192
+./test/8192_768_192/cutlass-test >> ./output/8192_768_192.log &
+make clean
+make CFLAGS=-DWMMA_139
+mkdir ./test/8192_3072_192
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/8192_3072_192
+./test/8192_3072_192/cutlass-test >> ./output/8192_3072_192.log &
+make clean
+make CFLAGS=-DWMMA_140
+mkdir ./test/8192_768_768
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/8192_768_768
+./test/8192_768_768/cutlass-test >> ./output/8192_768_768.log &
+make clean
+make CFLAGS=-DWMMA_141
+mkdir ./test/64_768_384
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/64_768_384
+./test/64_768_384/cutlass-test >> ./output/64_768_384.log &
+make clean
+make CFLAGS=-DWMMA_142
+mkdir ./test/64_8_384
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/64_8_384
+./test/64_8_384/cutlass-test >> ./output/64_8_384.log &
+make clean
+make CFLAGS=-DWMMA_143
+mkdir ./test/64_768_192
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/64_768_192
+./test/64_768_192/cutlass-test >> ./output/64_768_192.log &
+make clean
+make CFLAGS=-DWMMA_144
+mkdir ./test/64_8_192
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/64_8_192
+./test/64_8_192/cutlass-test >> ./output/64_8_192.log &
+make clean
+make CFLAGS=-DWMMA_145
+mkdir ./test/8192_768_384
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/8192_768_384
+./test/8192_768_384/cutlass-test >> ./output/8192_768_384.log &
+make clean
+make CFLAGS=-DWMMA_146
+mkdir ./test/8192_768_1536
+cp ./cutlass-test ./gpgpusim.config ./config_volta_islip.icnt ./test/8192_768_1536
+./test/8192_768_1536/cutlass-test >> ./output/8192_768_1536.log &
+make clean
