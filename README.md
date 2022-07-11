@@ -1,40 +1,24 @@
-# cutlass-gpgpu-sim
+0. 前言
 
-## Dependencies 
+基于 [cutlass-gpgpu-sim](https://github.com/gpgpu-sim/cutlass-gpgpu-sim)，在 gpgpusim 上运行 wmma 指令。将不同网络模型的 conv 以及 fc 操作转换为对应 size 的 gemm。在 [cutlass-gpgpu-sim](https://github.com/gpgpu-sim/cutlass-gpgpu-sim) 的基础上增加了一些编译的 case，增加了编译运行的脚本，以及对数据进行处理的脚本。
 
-This package is meant to be run on a modern Linux distro and requires CUDA 9.0 Toolkit or more to be installed. The package can be run standalone or with GPGPUSim 4.0.  Since the code has been using the CUTLASS 1.1 so it doesn't support the latest Turing WMMA features.
+## 0.1 Prerequisite
 
-## Purpose
++ CUDA 9.1
++ gpgpu-sim 4.0
++ gcc 5.5
++ cutlass-gpgpu-sim
 
-The purpose of the repository is to provide a centralized place for creating the cuda kernel using the CUTLASS library and executing it on GPGPU-Sim.
-
-## Directory Structure
-
-cutlass  -\> CUTLASS 1.1 Library
-
-util     -\> Helper function derived from the CUTLASS test examples
-
-gemm-test-\> Contains the gemm-tests and supporing files
-
-## How should I run on GPGPU-Sim?
-
-The following things need to be setup:
-
-	1. CUDA toolkit installed (currently GPGPU-Sim runs reliably using CUDA 9.1 )
-
-	2. You must have the GPGPU-Sim 4.0 (GPGPU-Sim GitHub dev branch)
-
-	3. nvcc is in the path and CUDA install path is set correctly
-
-	4. You have sourced the setup\_environment file inside the GPGPU-Sim 4.0 dev branch and build the simulator
-
-	5. You have copied the config files from gpgpu-sim\_distribution/configs/tested-cfgs/SM7\_TITANV to the cutlass-gpgpu-sim/
-
-
-If all of the above step has been done properly then running the kernels is simple.
-
-make (Verify that executable has been linked to GPGPU-Sim by using ldd command.)
-
-./cutlass-test (Running the tests)
-
-If you see Result Verified then everything is good to go.
+# 1. 目录
+```shell
+test_ant/	# 存放 ANT gemm 程序
+test_bitfusion/	# 存放 BitFusion gemm 程序
+output_ant/	# 存放 ANT gemm 结果
+output_bitfusion/	# 存放 BitFusion gemm 结果
+...
+analyze.py
+ant_compile&run.sh
+ant_res.csv
+bitfusion_compile&run.sh
+bitfusion_res.csv
+```
